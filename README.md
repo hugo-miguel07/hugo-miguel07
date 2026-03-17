@@ -103,3 +103,23 @@ Tabela com todos os projetos que completei na 42.
 
 ```txt
 C • Git • Linux • Algorithms • Shell • Networking • Unity • C#
+```
+---
+
+## 📬 Contact Me
+
+<p align="center">
+
+<a href="hugomiguel.cacao@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hugo-miguel07">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hugo-ca%C3%A7%C3%A3o-44097923a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
