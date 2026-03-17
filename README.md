@@ -80,6 +80,14 @@ Tabela com todos os projetos que completei na 42.
 </tr>
 
 <tr>
+<td><a href="https://github.com/hugo-miguel07/Philosophers">Philosophers</a></td>
+<td>Simulation of the famous Philosophers problem using threads and mutexes</td>
+<td>C</td>
+<td>🚧 In progress</td>
+<td>..%</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/hugo-miguel07/minishell">minishell</a></td>
 <td>Custom program that recreates the bash terminal</td>
 <td>C</td>
