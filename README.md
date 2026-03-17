@@ -11,7 +11,7 @@
 ## 🚀 42 School Projects
 
 <p align="center">
-Tabela com todos os projetos que completei na 42.
+42 School projects I'm currently working on.
 </p>
 
 <table align="center">
