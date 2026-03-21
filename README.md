@@ -83,8 +83,8 @@
 <td><a href="https://github.com/hugo-miguel07/Philosophers">Philosophers</a></td>
 <td>Simulation of the famous Philosophers problem using threads and mutexes</td>
 <td>C</td>
-<td>🚧 In progress</td>
-<td>..%</td>
+<td>✅ Completed</td>
+<td>100%</td>
 </tr>
 
 <tr>
