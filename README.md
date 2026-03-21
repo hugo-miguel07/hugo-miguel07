@@ -92,7 +92,7 @@
 <td>Custom program that recreates the bash terminal</td>
 <td>C</td>
 <td>✅ Completed</td>
-<td>100%</td>
+<td>95%</td>
 </tr>
 
 </table>
