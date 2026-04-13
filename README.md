@@ -95,6 +95,22 @@
 <td>95%</td>
 </tr>
 
+<tr>
+  <td><a href="https://github.com/hugo-miguel07/cub3d">cub3d</a></td>
+  <td>3D Game in C inspired on the classic Wolfenstein 3D</td>
+  <td>C</td>
+  <td>🚧 Building</td>
+  <td>...%</td>
+</tr>
+
+<tr>
+  <td><a href="https://github.com/hugo-miguel07/cpps">CPPs</a></td>
+  <td>CPP Modules</td>
+  <td>C++</td>
+  <td>🚧 Building</td>
+  <td>...%</td>
+</tr>
+
 </table>
 
 ---
