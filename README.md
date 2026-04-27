@@ -136,6 +136,6 @@ C • C# • Java • Python • Git • Linux • Algorithms • Shell
 
 📧 **Email:** hugomiguel.cacao@gmail.com  
 💻 **GitHub:** https://github.com/hugo-miguel07  
-💼 **LinkedIn:** https://www.linkedin.com/in/hugo-cação  
+💼 **LinkedIn:** https://www.linkedin.com/in/hugo-cacao
 
 </p>
