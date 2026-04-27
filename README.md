@@ -8,6 +8,14 @@
 
 ---
 
+<h3 align="center"> About Me</h3>
+
+<ul>
+  <li>Experienced with: C, C++, Java, Python, Makefile, bash, git, Linux</li>
+  <li>Currently focused on learning low-level programming, OOP and UNIX systems</li>
+  <li>Focused on growing as a software developer and solidify my area of interest</li>
+</ul>
+
 ## 🚀 42 School Projects
 
 <p align="center">
@@ -118,7 +126,7 @@
 ## 🛠️ Skills
 
 ```txt
-C • Git • Linux • Algorithms • Shell • Networking • Unity • C#
+C • C# • Java • Python • Git • Linux • Algorithms • Shell
 ```
 ---
 
