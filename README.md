@@ -112,6 +112,14 @@
 </tr>
 
 <tr>
+  <td><a href="https://github.com/hugo-miguel07/NetPractice">NetPractice</a></td>
+  <td>Networking Basics and Subnetting fundamentals using a training interface</td>
+  <td></td>
+  <td>✅ Completed</td>
+  <td>...%</td>
+</tr>
+
+<tr>
   <td><a href="https://github.com/hugo-miguel07/cpps">CPPs</a></td>
   <td>CPP Modules</td>
   <td>C++</td>
