@@ -116,7 +116,7 @@
   <td>Networking Basics and Subnetting fundamentals using a training interface</td>
   <td></td>
   <td>✅ Completed</td>
-  <td>...%</td>
+  <td>100%</td>
 </tr>
 
 <tr>
